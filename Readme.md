@@ -20,7 +20,7 @@ npm -v
 
 # install Marz
 ## Clone the Marz repository:
-git clone https://github.com/Samreay/Marz.git
+git clone https://github.com/Samreay/Marz.git     # this is a modified version adding absorption lines and LBG templates https://github.com/guoqigithub/Marz_mod
 
 ## Navigate to the Marz directory:
 cd Marz
